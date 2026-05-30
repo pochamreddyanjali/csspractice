@@ -5,3 +5,4 @@ priority, specificity, and order when multiple styles target the same element.
 <img> is a void/self-closing HTML element and does not require a closing tag because it does not contain inner content.
 Applying gradients means using a smooth transition between two or more colors in CSS instead of a single solid color.
 Pseudo-classes in CSS are special keywords added to selectors to define a special state of an element.
+But border-collapse works only on the <table> element, not on rows (tr).
