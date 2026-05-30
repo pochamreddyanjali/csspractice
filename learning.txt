@@ -1,0 +1,19 @@
+HTML Comment	CSS Comment
+<!-- -->	    /* */
+Cascading means CSS applies styles based on 
+priority, specificity, and order when multiple styles target the same element.
+<img> is a void/self-closing HTML element and does not require a closing tag because it does not contain inner content.
+Applying gradients means using a smooth transition between two or more colors in CSS instead of a single solid color.
+Pseudo-classes in CSS are special keywords added to selectors to define a special state of an element.
+But border-collapse works only on the <table> element, not on rows (tr).
+visibility:hidden area is reserved but not visible
+display:none means totally removed
+% (Percentage)
+
+Percentage is relative to the parent element.
+vw (Viewport Width)
+
+1vw = 1% of browser width
+vh (Viewport Height)
+
+1vh = 1% of browser height
