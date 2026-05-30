@@ -8,3 +8,12 @@ Pseudo-classes in CSS are special keywords added to selectors to define a specia
 But border-collapse works only on the <table> element, not on rows (tr).
 visibility:hidden area is reserved but not visible
 display:none means totally removed
+% (Percentage)
+
+Percentage is relative to the parent element.
+vw (Viewport Width)
+
+1vw = 1% of browser width
+vh (Viewport Height)
+
+1vh = 1% of browser height
